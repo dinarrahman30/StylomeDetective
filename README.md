@@ -17,8 +17,6 @@ Beyond pure accuracy, the project highlights practical applications in:
 
 Overall, this project demonstrates how mathematics, NLP, and machine learning can be combined to analyze Victorian literature and recover hidden patterns of authorship—bridging classic literature with modern AI methods.
 
-## About the Dataset
-
 ### Link Project: https://stylomedetective.streamlit.app/
 
 ### Source
